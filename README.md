@@ -64,7 +64,8 @@ lib/
 ├── main.dart          # Main entry point for the app
 ├── models/
 │   └── task.dart      # Task model for managing task data
-└── my_home_page.dart  # The main home page with task management UI
+└── page/
+    └── homepage.dart  # The main home page with task management UI
 ```
 
 ## Hive Setup
