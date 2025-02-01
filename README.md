@@ -39,7 +39,7 @@ Make sure you have Flutter installed on your machine. You can check the installa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taskly.git
+   git clone https://github.com/akashpd390/Taskly.git
    ```
    
 2. Navigate to the project directory:
